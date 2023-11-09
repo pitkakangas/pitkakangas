@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pitkakangas
 - 👀 I’m interested in machine learning and artificial intelligence
-- 🌱 I’m currently learning creating web applications to create a teaching app
+- 🌱 I’m currently learning reinforcement learning
   
 
 <!---
